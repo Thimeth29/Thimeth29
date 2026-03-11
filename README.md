@@ -1,8 +1,8 @@
 👋 Hi, I'm Thimeth Chathnuka
 
-🎓 BSc (Hons) IT Undergraduate
-💻 Passionate about Cloud Computing, Software Development, and DevOps
-🚀 Interested in building real-world technology solutions
+🎓 BSc (Hons) IT Undergraduate <br>
+💻 Passionate about Cloud Computing, Software Development, and DevOps <br>
+🚀 Interested in building real-world technology solutions <br>
 
 I enjoy working on projects related to mobile applications, web systems, and cloud-based architectures while continuously learning modern technologies and improving my development skills.
 

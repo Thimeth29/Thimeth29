@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Thimeth Chathnuka
 
-<!--
-**Thimeth29/Thimeth29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) IT Undergraduate
+💻 Passionate about Cloud Computing, Software Development, and DevOps
+🚀 Interested in building real-world technology solutions
 
-Here are some ideas to get you started:
+I enjoy working on projects related to mobile applications, web systems, and cloud-based architectures while continuously learning modern technologies and improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Projects
+
+🔹 Mind Care Mobile App
+Mental wellness mobile application built using Kotlin, MVVM architecture, and Jetpack Compose.
+
+🔹 Cloud File Sharing System with Security
+A cloud-based file sharing system designed with security and scalability features.
+
+🔹 Soybean Farmer Support System
+A web application using Flask, Twilio SMS API, and Weather API to assist farmers with information and alerts.
+
+⭐ Always learning new technologies and building practical solutions.

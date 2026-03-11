@@ -1,6 +1,6 @@
 👋 Hi, I'm Thimeth 
 
-🎓 BSc (Hons) IT Undergraduate <br>
+🎓 BSc (Hons) Cloud Computing Undergraduate student <br>
 💻 Passionate about Cloud Computing, Software Development, and DevOps <br>
 🚀 Interested in building real-world technology solutions <br>
 

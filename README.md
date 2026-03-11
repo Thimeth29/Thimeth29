@@ -1,4 +1,4 @@
-👋 Hi, I'm Thimeth Chathnuka
+👋 Hi, I'm Thimeth 
 
 🎓 BSc (Hons) IT Undergraduate <br>
 💻 Passionate about Cloud Computing, Software Development, and DevOps <br>
